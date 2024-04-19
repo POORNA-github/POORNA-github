@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Poorna Lakmal</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/53e2d5e6937554a96b9299b5d38e39080ab9281af5c888aa5b06b86312ccdccd/68747470733a2f2f63646e2e66696c65737461636b636f6e74656e742e636f6d2f6566625352313868543575524b756f307a6f4d41">
 
-
-- 👯 I’m looking to collaborate on **Front End Projects**
+- 👯 I’m looking to collaborate on **Front End Prohects**
 
 - 📝 I regularly write articles on [https://technags.com/](https://technags.com/)
 
@@ -25,4 +23,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/poornalakmal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="poornalakmal" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=poorna-github&show_icons=true&locale=en&layout=compact" alt="poorna-github" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=poorna-github&show_icons=true&locale=en&layout=compact" alt="poorna-github" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=poorna-github&show_icons=true&locale=en" alt="poorna-github" /></p>
