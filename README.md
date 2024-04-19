@@ -27,6 +27,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,arduino,cs,c,cpp,java,css,js,netlify" /> <br>
+    <img src="https://skillicons.dev/icons?i=git,arduino,cs,c,cpp,java,css,js,netlify" /> 
   </a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
