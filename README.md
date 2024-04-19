@@ -1,3 +1,5 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Poorna+Lakmal;Front+End+Developer;Undergraduate" alt="Typing SVG" /></a>
+
 <h1 align="center">Hi 👋, I'm Poorna Lakmal</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/53e2d5e6937554a96b9299b5d38e39080ab9281af5c888aa5b06b86312ccdccd/68747470733a2f2f63646e2e66696c65737461636b636f6e74656e742e636f6d2f6566625352313868543575524b756f307a6f4d41">
