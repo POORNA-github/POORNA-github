@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=poorna-github" alt="poorna-github" /></a> </p>
 
-- 👯 I’m looking to collaborate on **Front End Prohects**
+- 👯 I’m looking to collaborate on **Front End Projects**
 
 - 📝 I regularly write articles on [https://technags.com/](https://technags.com/)
 
