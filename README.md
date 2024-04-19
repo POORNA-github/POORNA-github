@@ -21,6 +21,9 @@
 <br>
 <br>
 <br>
+<br>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,arduino,cs,c,cpp,java,css,js,netlify" /> <br>
