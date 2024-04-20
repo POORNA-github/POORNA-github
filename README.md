@@ -49,7 +49,7 @@
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=POORNA-github&theme=merko&show_icons=true&hide_border=true&layout=compact" alt="top langs" />
 </div>
 <div align="center">
-<h3 align="center">Support:</h3>
+<h3 align="center">Support</h3>
 <p><a href="https://www.buymeacoffee.com/poornalakmal"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="poornalakmal" /></a></p><br><br>
 </div>
 <br>
