@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Poorna+Lakmal;Front+End+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Undergraduate+%F0%9F%A7%91%E2%80%8D%F0%9F%8E%93;Sri+Lank+%F0%9F%87%B1%F0%9F%87%B0+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Poorna+Lakmal;Front+End+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Undergraduate+%F0%9F%A7%91%E2%80%8D%F0%9F%8E%93;Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0+" alt="Typing SVG" /></a>
 
 <img width="1834" alt="Make your README" src="https://github.com/POORNA-github/POORNA-github/assets/98333194/9a5c99ed-57cc-401a-ab13-4979e201d27a">
 
