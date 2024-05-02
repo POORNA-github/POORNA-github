@@ -2,7 +2,7 @@
 
 <img width="1834" alt="Make your README" src="https://github.com/POORNA-github/POORNA-github/assets/98333194/9a5c99ed-57cc-401a-ab13-4979e201d27a">
 
-<h1 align="center">Poorna Lakmal</h1>
+<h1 align="center">Poorna Lakma</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/53e2d5e6937554a96b9299b5d38e39080ab9281af5c888aa5b06b86312ccdccd/68747470733a2f2f63646e2e66696c65737461636b636f6e74656e742e636f6d2f6566625352313868543575524b756f307a6f4d41">
 - 👯 I’m looking to collaborate on **Front End Projects**
