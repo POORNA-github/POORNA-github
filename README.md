@@ -33,12 +33,7 @@
   </a>
 </p>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/POORNA-github/POORNA-github/output/github-contribution-grid-snake.svg" />
-  
-  <br/>
+
 </div>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
